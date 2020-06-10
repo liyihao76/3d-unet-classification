@@ -105,3 +105,4 @@ return np.asarray(np.mgrid[start[0]:stop[0]:step[0], start[1]:stop[1]:step[1],
 
 shape = (27, 3)
 Un volume (144,144,144) a 27 patches   
+Sa structure est un peu comme un Rubik's Cube
